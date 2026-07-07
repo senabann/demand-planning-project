@@ -172,7 +172,7 @@ Any grouping with a count greater than one was treated as a potential duplicate.
 
 No duplicate records were identified in either table.
 
-![Duplicate Validation Results](images/duplicate-validation-results.png)
+![Duplicate Validation Results](https://github.com/senabann/demand-planning-project/blob/main/IMAGES/Screenshot%202026-06-24%20185926.png?raw=true)
 
 ---
 
